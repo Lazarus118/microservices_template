@@ -1,0 +1,11 @@
+.env/
+env/
+venv/
+dist/
+htmlcov/
+site/
+.tox/
+Flask_API.egg-info/
+*.pyc
+__pycache__
+.coverage

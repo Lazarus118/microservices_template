@@ -9,7 +9,8 @@ Requirements
 ===========
 
     * Python 2.7
-    * Works on Linux, Windows, Mac OSX and (quite possibly) BSD.
+
+    * Works on Linux
 
 Install/Run
 ===========
@@ -22,11 +23,19 @@ Install/Run
 
     * pip install -r requirements.txt
 
+    * python db_create.py
+
+    * python db_migrate.py
+
     * python run.py
 
     Url route:
 
-    * http://localhost:5000/api/user/
+    * http://localhost:5000/api/get/
+
+    * http://localhost:5000/api/post/
+    
+    * http://localhost:5000/api/update/
 
 
 APIs and Documentation
