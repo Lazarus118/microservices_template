@@ -3,4 +3,4 @@ requests==2.5.1
 wsgiref==0.1.2
 Flask-SQLAlchemy==2.0
 SQLAlchemy<=0.7.10
-sqlalchemy-migrate==0.7.2
+sqlalchemy-migrate
